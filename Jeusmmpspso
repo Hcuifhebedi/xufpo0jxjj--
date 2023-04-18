@@ -15,7 +15,8 @@ whitelist = {
     "Only_Kavara",
     "lexvJones",
     "021_ivanjr",
-    "Jahqiavakacakga"
+    "jahqiavakacakga",
+    "RanceIsSwaggy"
 }
 
 local plr = game.Players.LocalPlayer
