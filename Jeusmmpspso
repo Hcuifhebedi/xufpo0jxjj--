@@ -22,7 +22,8 @@ whitelist = {
     "XaviersGoCrazy",
     "LGNEUTRO",
     "Ryangoleiro12",
-    "stark14780"
+    "stark14780",
+    "edilsin123"
 }
 
 if table.find(whitelist, name) then
