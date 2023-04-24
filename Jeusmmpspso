@@ -2,7 +2,7 @@ local plr = game.Players.LocalPlayer
 local name = game.Players.LocalPlayer.Name
 
 local whitelist = {
-    "Ali_thepirosf",
+    "Ali_thepiros",
     "Practiceaccount786",
     "Icy_windyz",
     "a_erxksks13",
